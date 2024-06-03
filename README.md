@@ -9,7 +9,7 @@ A website that showcases professional web development services, including custom
 **Link to project:** https://technical-solutions.netlify.app/
 
 <div align="center">
-  <img style="width: 60%;" src="images\techdemo.webp" alt="logo">
+  <img style="width: 80%;" src="images\techdemo.webp" alt="demo">
 </div>
 
 ## How It's Made:
