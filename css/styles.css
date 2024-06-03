@@ -65,7 +65,7 @@ button:focus {
 header {
     min-height: 100vh;
     color: rgb(245, 245, 245);
-    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.75)), url('images/meeting.webp');
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.75)), url('/images/meeting.webp');
     background-size: cover;
     background-position: center;
 }
