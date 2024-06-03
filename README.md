@@ -24,3 +24,7 @@ The main problem with this site is the fact that the nav is not fixed to the top
 ## Lessons Learned:
 
 Building this website enhanced my understanding of modern web development practices such as implementing responsive design principles. I gained valuable experience in utilizing CSS and JavaScript to create a great user experience. Additionally, this project underscored the importance of thorough testing and cross-browser compatibility to ensure a consistent interface for all users.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
